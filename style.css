@@ -1,0 +1,12 @@
+div{
+    background-color: aqua;
+    height:20%;
+    width: 20%;
+    border: 1px solid black;   
+    transition: width 4s;
+    transition: height 4s;
+    transition: transform 4s;
+}
+ div:hover{
+    transform:rotateY(180deg);
+ }
