@@ -1,0 +1,3 @@
+.btn{
+    @apply inline-block bg-gray-800 border-2 px-6 py-3 mt-6 text-white uppercase;
+}
